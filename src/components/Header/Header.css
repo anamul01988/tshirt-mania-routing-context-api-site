@@ -1,0 +1,23 @@
+.header{
+    background-color: black;
+
+    color: white;
+        display:flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: auto;
+    width: 100%;
+    /* display: grid;
+    grid-template-columns: 1fr 2fr; */
+}
+nav a {text-decoration: none;
+    padding: 10px 16px;
+    background: orange;
+    margin-right: 10px;
+    color:  black;
+    font-size: 23px;
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+.t-shirt{
+    /* height: 400px; */
+    height: auto;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+.t-shirt img{
+    height: 250px;
+    width: 80%;
+}
